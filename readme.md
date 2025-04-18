@@ -1,6 +1,6 @@
-# TODANA
+# TOBUNA
 
-TODANA merupakan script yang bisa digunakan sebagai Toko Online Sederhana.
+TOBUNA merupakan script yang bisa digunakan sebagai Toko Online Sederhana.
 
 Script ini dibangun dengan menggunakan:
 
